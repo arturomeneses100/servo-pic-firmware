@@ -1,0 +1,17 @@
+# Salidas de CCS PIC C Compiler
+*.hex
+*.cof
+*.err
+*.lst
+*.sym
+*.esym
+*.xsym
+*.tre
+*.sta
+*.cod
+*.mcs
+*.ccspjt.bak
+# Proteus
+*.pdsbak
+*.workspace
+Last Loaded *

@@ -97,6 +97,7 @@ Para modificar la velocidad de comunicación, cambia el parámetro `baud=` en la
 ```text
 servo-pic-firmware/
 ├── servo_pic.c     # Firmware desarrollado en CCS PIC C Compiler
+├── LICENSE         # Licencia MIT
 └── README.md       # Documentación del proyecto
 ```
 
@@ -104,3 +105,7 @@ servo-pic-firmware/
 
 **Arturo Elfego Meneses Flores**  
 Universidad Tecnológica de la Huasteca Hidalguense (UTHH)
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Arturo Elfego Meneses Flores — DUAL ARD / UTHH.
